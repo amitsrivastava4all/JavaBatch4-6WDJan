@@ -1,0 +1,18 @@
+class - Name Noun
+method - verb
+SRP + DRY
+private Instance Variables + public methods = Good Encapsulation
+Data Hiding (private instance variables)
+Primary fields initialise by using Constructor
+Constructor would be overloaded default constructor for fixed values and param constructor for variable values
+method is only for operations
+setter/getter for changeable fields
+
+Questions--------------------------------
+class Student
+members fields 
++ constructor 
+ totalMarks
+grade
+Percentage
+MarkSheetPrint
